@@ -163,7 +163,7 @@ def masaleh_va_ghimat():
     print()
     print("masaleh_va_ghimat")
             
-    """decor or can say d"""
+    """decor or can say d d"""
     def decor():
         import math
         print("decor")
